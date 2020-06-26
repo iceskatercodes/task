@@ -47,4 +47,4 @@ let technicalSpecifications =[{
             "groddVeichleWeight":"string"
         }
 }]
-console.log(technicalSpecifications)
+// console.log(technicalSpecifications)
